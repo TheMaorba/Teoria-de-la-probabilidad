@@ -1,2 +1,2 @@
-# Teoria-de-la-probabilidad
-Archivos compartidos para trabajar en clase
+# CURSO2024
+Mi curso de Diseño de Experimentos
